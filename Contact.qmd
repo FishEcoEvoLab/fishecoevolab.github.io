@@ -3,7 +3,27 @@ title: "Contact"
 ---
 
 ### Prospective Students
-Student positions will be posted here, please check back later. 
+
+I look for highly motivated graduate students with a passion for research in the fields of evolutionary and behavioural ecology and their application to conservation, and on topics that closely match those investigated by my laboratory. Students should be prepared to share their enthusiasm for research and associated skills openly within the laboratory, and by doing so, contribute to a dynamic research environment. In my experience, successful graduate students tend to be naturally curious, with a desire to conduct research, publish findings, and obtain a position in a science-related profession.
+
+My laboratory is located at the Ocean Sciences Centre of Memorial University of Newfoundland, which provides an outstanding research environment within which to undertake graduate studies. Students may enroll in graduate programmes in Marine Biology, Biology, Cognitive and Behavioural Ecology, or Environmental Science.
+
+Interested students should send by email: (1) a cover letter outlining their interests and dedication to scientific inquiry and professional development; (2) a CV identifying their academic and technical training/research experience; and (3) transcript(s) (unofficial is fine).
+
+ 
 To learn more about graduate studies at Memorial, visit <https://www.mun.ca/osc/graduate-students/>
+
+### Contact
+
+Dr. Ian A. Fleming\
+Professor\ 
+Department of Ocean Sciences\
+Ocean Sciences Centre\
+Memorial University\
+0 Marine Lab Road\
+St. John’s, NL\
+CANADA A1C 5S7\
+email: Ifleming [at] mun.ca
+
 
 [![](img/mun.png){fig-align="center" width="216"}](https://www.mun.ca/osc/)
