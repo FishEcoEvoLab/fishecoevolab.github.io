@@ -1,0 +1,9 @@
+---
+title: "Contact"
+---
+
+### Prospective Students
+Student positions will be posted here, please check back later. 
+To learn more about graduate studies at Memorial, visit <https://www.mun.ca/osc/graduate-students/>
+
+[![](img/mun.png){fig-align="center" width="216"}](https://www.mun.ca/osc/)
