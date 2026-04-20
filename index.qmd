@@ -1,16 +1,20 @@
 ---
 title: "Fish Evolutionary Ecology Lab"
+title-block-banner: img/Burin.jpg
+title-block-banner-color: "black"
 ---
+
 
 ### Memorial University of Newfoundland and Labrador
 
-![](img/SsalPenobscot.png)
+![Photo Credit: Anders Lamberg](img/Salmon.jpg)
 
 In Dr. Ian Fleming’s Fish Evolutionary Ecology Lab, we aim to address fundamental questions about the way in which animals respond to their environment (phenotypically and evolutionarily) and provide a foundation for the understanding of central issues in biological conservation and management.
 
 Our research focuses on the evolutionary and behavioural ecology of salmonids, with an emphasis on the selective forces that shape reproductive strategies and influence offspring performance, particularly in the context of environmental variability and anthropogenic disturbance. Reproductive strategies are manifestations of breeding systems and are reflected in life history traits, such as age and size at maturity, residency versus anadromy, reproductive allocation, and number and size of offspring. Moreover, they can have tight, direct links to offspring success through maternal traits, such as egg size, breeding time and breeding location. What forces shape such traits and how they respond (genes, environmental plasticity or some combination thereof) are fundamental areas of evolutionary ecology and conservation biology that we explore. These forces will determine the form and speed of response to natural and anthropogenic environmental change.
 
-Our research applies this fundamental approach to issues surrounding the management and conservation of wild fish populations, including the restoration of endangered and threatened populations, species invasions and interactions between aquaculture and wild fish. A range of scientific approaches are used, from controlled laboratory experiments to large-scale field experiments, as well as more theoretical studies.
+Our research applies this fundamental approach to issues surrounding the management and conservation of wild fish populations, including the restoration of endangered and threatened populations, species invasions and interactions between aquaculture and wild fish. A range of scientific
+approaches are used, from controlled laboratory experiments to population genomic studies to large-scale field experiments, as well as more theoretical studies.
 
 <b> We are part of Memorial University's Department of Ocean Sciences, located in Logy Bay, NL </b>
 

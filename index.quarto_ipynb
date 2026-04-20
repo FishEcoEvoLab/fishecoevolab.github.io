@@ -1,0 +1,52 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: \"Fish Evolutionary Ecology Lab\"\n",
+        "title-block-banner: img/Burin.jpg\n",
+        "title-block-banner-color: \"black\"\n",
+        "---\n",
+        "\n",
+        "```{html}\n",
+        "<style>\n",
+        "#title-block-header.title-block-banner {\n",
+        "  height: 300px; /* Adjust height as needed */\n",
+        "  display: flex;\n",
+        "  flex-direction: column;\n",
+        "  justify-content: center; /* Centers text vertically */\n",
+        "}\n",
+        "</style>\n",
+        "```\n",
+        "\n",
+        "\n",
+        "### Memorial University of Newfoundland and Labrador\n",
+        "\n",
+        "![Photo Credit: Anders Lamberg](img/Salmon.jpg)\n",
+        "\n",
+        "In Dr. Ian Fleming’s Fish Evolutionary Ecology Lab, we aim to address fundamental questions about the way in which animals respond to their environment (phenotypically and evolutionarily) and provide a foundation for the understanding of central issues in biological conservation and management.\n",
+        "\n",
+        "Our research focuses on the evolutionary and behavioural ecology of salmonids, with an emphasis on the selective forces that shape reproductive strategies and influence offspring performance, particularly in the context of environmental variability and anthropogenic disturbance. Reproductive strategies are manifestations of breeding systems and are reflected in life history traits, such as age and size at maturity, residency versus anadromy, reproductive allocation, and number and size of offspring. Moreover, they can have tight, direct links to offspring success through maternal traits, such as egg size, breeding time and breeding location. What forces shape such traits and how they respond (genes, environmental plasticity or some combination thereof) are fundamental areas of evolutionary ecology and conservation biology that we explore. These forces will determine the form and speed of response to natural and anthropogenic environmental change.\n",
+        "\n",
+        "Our research applies this fundamental approach to issues surrounding the management and conservation of wild fish populations, including the restoration of endangered and threatened populations, species invasions and interactions between aquaculture and wild fish. A range of scientific\n",
+        "approaches are used, from controlled laboratory experiments to population genomic studies to large-scale field experiments, as well as more theoretical studies.\n",
+        "\n",
+        "<b> We are part of Memorial University's Department of Ocean Sciences, located in Logy Bay, NL </b>\n",
+        "\n",
+        "[![](img/mun.png){fig-align=\"center\" width=\"216\"}](https://www.mun.ca/osc/)"
+      ],
+      "id": "880f9d0e"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "display_name": "Python 3",
+      "language": "python",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}
