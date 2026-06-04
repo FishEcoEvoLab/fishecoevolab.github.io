@@ -9,6 +9,7 @@ website:
       - OurTeam.qmd
       - Publications.qmd
       - Contact.qmd
+      - Gallery.qmd
 
 format:
   html:
@@ -19,3 +20,4 @@ format:
 
 editor: visual
 
+pre-render: generate-gallery.ts
