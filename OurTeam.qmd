@@ -1,6 +1,7 @@
 ---
 title: "Our Team"
 ---
+We study salmonid ecology and evolution in Newfoundland. 
 
 ![](img/LabPhoto.jpeg)
 
@@ -28,7 +29,7 @@ I am a Ph.D. candidate who is co-supervised by Dr. Susan Ziegler. My research as
 
 ![](img/HallieArno.jpg){width="340"}
 
-I am a PhD candidate co-supervised by Dr. Ian Bradbury and Dr. Sarah Lehnert. My research investigates the impacts of two anthropogenic threats to Atlantic salmon: climate change and introgression from aquaculture escapees. Do these two threats multiply or mitigate one another? I am primarily using a population genomics approach, using whole-genome sequencing of aquaculture and wild salmon to better understand questions of local adaptation, the impacts of domestication selection, and changes in fitness resulting from introgression. I am broadly interested in using genetics as a tool for fisheries conservation, and Newfoundland salmon are an ideal study species for these types of questions.
+I am a PhD candidate co-supervised by Dr. Ian Bradbury and Dr. Sarah Lehnert. My research investigates the impacts of two anthropogenic threats to Atlantic Salmon: climate change and introgression from aquaculture escapees. Do these two threats multiply or mitigate one another? I am primarily using a population genomics approach, using whole-genome sequencing of aquaculture and wild salmon to better understand questions of local adaptation, the impacts of domestication selection, and changes in fitness resulting from introgression. I am broadly interested in using genetics as a tool for fisheries conservation, and Newfoundland salmon are an ideal study species for these types of questions.
 
 #### Cameron MacPhail
 

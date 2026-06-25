@@ -1,0 +1,17 @@
+---
+title: "Gallery"
+lightbox: auto
+---
+
+
+
+```{r}
+#| output: asis
+img_files <- fs::dir_ls("gallery", glob="*.png")
+cat("::: {layout-ncol=2}\n",
+    glue::glue("![]({img_files})\n\n\n"),
+    ":::",
+    sep = ""
+)
+
+```
