@@ -61,27 +61,28 @@ I am an MSc student co-supervised by Dr. Ian Bradbury (DFO). My research focuses
 I am an Undergraduate Honours student co-supervised by Dr. Chris Parrish. My research examines the differences in fatty acid and lipid profiles between young-of-the-year Atlantic salmon and brown trout in two ecologically different streams on the Avalon Peninsula of Newfoundland and Labrador. I will be analyzing samples from an anadromous population in Salmon Cove, NL, and from a resident (landlocked) population in the Goulds, NL. My work aims to understand the diet differences or resource partitioning strategies between native Atlantic salmon and the introduced brown trout, especially early in life when interspecific competition would be the highest.
 
 #### Abby Hammond
+
 ![](img/AbbyHammond.jpg){width="311"}
 
-I am an Undergraduate Honours student co-supervised by Dr. Chris Parrish. My research uses the analysis of lipid and fatty acid profiles, as well as carbon, hydrogen and nitrogen content to compare dietary overlap and potential competition between anadromous and resident (ouananiche) young-of-the-year Atlantic salmon in the Rocky River, NL. 
+I am an Undergraduate Honours student co-supervised by Dr. Chris Parrish. My research uses the analysis of lipid and fatty acid profiles, as well as carbon, hydrogen and nitrogen content to compare dietary overlap and potential competition between anadromous and resident (ouananiche) young-of-the-year Atlantic salmon in the Rocky River, NL.
 
 ### Frequent Collaborators
 
-[**Dr. Ian Bradbury**](https://bradburygeneticslab.com/people/ian-bradbury/) Research Scientist, Department of Fisheries and Oceans Canada \
-[**Dr. Sarah Lehnert**](https://lehnertsarah.wixsite.com/mysite) Research Scientist, Department of Fisheries and Oceans Canada \
-[**Dr. Daniel Gomez-Uchida**](https://www2.udec.cl/~dgomezu/) Professor, University of Concepción Chile \
-[**Dr. Kjetil Hindar**](https://www.thesixriversfoundation.com/speakers/dr-kjetil-hindar-norwegian-institute-for-nature-research-nina) Emeritus Scientist, Norwegian Institute for Nature Research \
-[**Dr. Phil McGinnity**](https://www.ucc.ie/en/fisheye/people/philsteam/) Professor, University College Cork Ireland \
-[**Dr. Chris Parrish**](https://www.mun.ca/osc/dr-chris-parrish/) Professor, Memorial University Department of Ocean Sciences \
-[**Dr. Craig Purchase**](https://www.craigpurchase.com/) Professor, Memorial University Department of Biology \
-[**Dr. Matt Rise**](https://www.mun.ca/osc/dr-matthew-rise/ ) Professor, Memorial University Department of Ocean Sciences \
-[**Dr. Travis Van Leeuwen**](https://www.researchgate.net/profile/Travis-Leeuwen) Research Scientist, Department of Fisheries and Oceans Canada \
+[**Dr. Ian Bradbury**](https://bradburygeneticslab.com/people/ian-bradbury/) Research Scientist, Department of Fisheries and Oceans Canada\
+[**Dr. Sarah Lehnert**](https://lehnertsarah.wixsite.com/mysite) Research Scientist, Department of Fisheries and Oceans Canada\
+[**Dr. Daniel Gomez-Uchida**](https://www2.udec.cl/~dgomezu/) Professor, University of Concepción Chile\
+[**Dr. Kjetil Hindar**](https://www.thesixriversfoundation.com/speakers/dr-kjetil-hindar-norwegian-institute-for-nature-research-nina) Emeritus Scientist, Norwegian Institute for Nature Research\
+[**Dr. Phil McGinnity**](https://www.ucc.ie/en/fisheye/people/philsteam/) Professor, University College Cork Ireland\
+[**Dr. Chris Parrish**](https://www.mun.ca/osc/dr-chris-parrish/) Professor, Memorial University Department of Ocean Sciences\
+[**Dr. Craig Purchase**](https://www.craigpurchase.com/) Professor, Memorial University Department of Biology\
+[**Dr. Matt Rise**](https://www.mun.ca/osc/dr-matthew-rise/) Professor, Memorial University Department of Ocean Sciences\
+[**Dr. Travis Van Leeuwen**](https://www.researchgate.net/profile/Travis-Leeuwen) Research Scientist, Department of Fisheries and Oceans Canada\
 
 ## Past Lab Members
 
 ### Postdoctoral Researchers
 
-[**Blair Adams**](https://whc.org/about/b-adams/) Director, Wildlife Division, Government of Newfoundland and Labrador\
+[**Blair Adams**](https://www.linkedin.com/in/blair-adams-6803b976/) Assistant Deputy Minister, Forestry, Wildlife and Resource Enforcement, Government of Newfoundland and Labrador\
 [**Sigurd Einum**](https://www.ntnu.edu/employees/sigurd.einum) Professor, Norwegian University of Science and Technology, Trondheim\
 [**Mohamed Emam**](https://www.researchgate.net/profile/Mohamed-Emam-15) Postdoctoral Fellow, Memorial University of Newfoundland, St. John’s\
 [**Melissa Evans**](https://www.researchgate.net/profile/Melissa-Evans) Senior Research Biologist, Coldstream Nature-Based Solutions, BC\
@@ -106,8 +107,7 @@ I am an Undergraduate Honours student co-supervised by Dr. Chris Parrish. My res
 ### MSc Students
 
 [**Mark Young**]() Ecosystem Management Ecologist, Wildlife Branch, NL Department of Forestry, Agriculture and Lands\
-[**Coral San Roman**]() Fisheries Biologist, Fisheries and Oceans Canada, Port Hardy
-[**Michelle Bachan**](https://www.linkedin.com/in/michelle-m-bachan-448190153/?originalSubdomain=ca) Biology Instructional Assistant, Memorial University of Newfoundland, St. John’s\
+[**Coral San Roman**]() Fisheries Biologist, Fisheries and Oceans Canada, Port Hardy [**Michelle Bachan**](https://www.linkedin.com/in/michelle-m-bachan-448190153/?originalSubdomain=ca) Biology Instructional Assistant, Memorial University of Newfoundland, St. John’s\
 **Jaclyn Bennett**\
 [**Lance Campbell**](https://www.researchgate.net/profile/Lance-Campbell) Fish Biologist, Washington Department of Fish & Wildlife, Olympia, WA\
 [**Michelle Caputo**](https://marineconservationecologylab.com/dr-michelle-caputo) Postdoctoral Fellow, Florida Internal University & Rhodes University, South Africa\
@@ -127,7 +127,7 @@ I am an Undergraduate Honours student co-supervised by Dr. Chris Parrish. My res
 
 ### Honours Students
 
-**Isaiah Power Smith** R&D Trials Technician, Otter Ferry Seafish Ltd, UK \
+**Isaiah Power Smith** R&D Trials Technician, Otter Ferry Seafish Ltd, UK\
 **Tristan Hennig**\
 [**Krista Oke**](https://kristaoke.weebly.com/) Postdoctoral Fellow, University of Alaska Fairbanks\
 **Emily Palmer**\
