@@ -56,17 +56,9 @@ I am a MSc Student co-supervised by Dr. Ian Bradbury. I am using whole genome ap
 
 I am an MSc student co-supervised by Dr. Ian Bradbury (DFO). My research focuses on marine survival in Atlantic salmon and is conducted as part of the Atlantic Salmon Research Joint Venture (ASRJV). I am working to identify ecologically induced genetic changes associated with marine mortality in wild Atlantic salmon populations. Additionally, I study gene expression in juvenile salmon within freshwater environments to explore how freshwater conditions influence marine survival. My field work occurs primarily within the Restigouche River, in partnership with the Gespe’gewa’gi Institute of Natural Understanding (GINU).
 
-#### Chloe Baker
+#### Jayme Gallant
 
-![](img/ChloeBaker.png){width="318"}
-
-I am an Undergraduate Honours student co-supervised by Dr. Chris Parrish. My research examines the differences in fatty acid and lipid profiles between young-of-the-year Atlantic salmon and brown trout in two ecologically different streams on the Avalon Peninsula of Newfoundland and Labrador. I will be analyzing samples from an anadromous population in Salmon Cove, NL, and from a resident (landlocked) population in the Goulds, NL. My work aims to understand the diet differences or resource partitioning strategies between native Atlantic salmon and the introduced brown trout, especially early in life when interspecific competition would be the highest.
-
-#### Abby Hammond
-
-![](img/AbbyHammond.jpg){width="311"}
-
-I am an Undergraduate Honours student co-supervised by Dr. Chris Parrish. My research uses the analysis of lipid and fatty acid profiles, as well as carbon, hydrogen and nitrogen content to compare dietary overlap and potential competition between anadromous and resident (ouananiche) young-of-the-year Atlantic salmon in the Rocky River, NL.
+I am an Undergraduate Honours student co-supervised by Dr. Sue Ziegler. My research uses stable istopes to examine the diet of Arctic char migrate from freshwater to the marine environment in Nunatsiavut, Labrador. I will be testing a new method to isolate different cores of the eye of char that are representative of different life stages of the fish.
 
 ### Frequent Collaborators
 
@@ -75,10 +67,11 @@ I am an Undergraduate Honours student co-supervised by Dr. Chris Parrish. My res
 [**Dr. Daniel Gomez-Uchida**](https://www2.udec.cl/~dgomezu/) Professor, University of Concepción Chile\
 [**Dr. Kjetil Hindar**](https://www.thesixriversfoundation.com/speakers/dr-kjetil-hindar-norwegian-institute-for-nature-research-nina) Emeritus Scientist, Norwegian Institute for Nature Research\
 [**Dr. Phil McGinnity**](https://www.ucc.ie/en/fisheye/people/philsteam/) Professor, University College Cork Ireland\
-[**Dr. Chris Parrish**](https://www.mun.ca/osc/dr-chris-parrish/) Professor, Memorial University Department of Ocean Sciences\
-[**Dr. Craig Purchase**](https://www.craigpurchase.com/) Professor, Memorial University Department of Biology\
-[**Dr. Matt Rise**](https://www.mun.ca/osc/dr-matthew-rise/) Professor, Memorial University Department of Ocean Sciences\
+[**Dr. Chris Parrish**](https://www.mun.ca/osc/dr-chris-parrish/) Professor, Department of Ocean Sciences, Memorial University\
+[**Dr. Craig Purchase**](https://www.craigpurchase.com/) Professor, Department of Biology, Memorial University\
+[**Dr. Matt Rise**](https://www.mun.ca/osc/dr-matthew-rise/) Professor, Department of Ocean Sciences, Memorial University\
 [**Dr. Travis Van Leeuwen**](https://www.researchgate.net/profile/Travis-Leeuwen) Research Scientist, Department of Fisheries and Oceans Canada\
+[**Dr. Sue Ziegler**](https://www.esd.mun.ca/wordpress/sziegler/?page_id=78) Professor, Canada Research Chair in Boreal Biogeochemistry, Department of Earth Sciences, Memorial University\
 
 ## Past Lab Members
 
@@ -98,39 +91,41 @@ I am an Undergraduate Honours student co-supervised by Dr. Chris Parrish. My res
 [**Kristin Bøe**](https://www.researchgate.net/profile/Kristin-Boe) Research Scientist, Norwegian Veterinary Institute, Trondheim\
 [**Heather Bowlby**](https://www.researchgate.net/profile/Heather-Bowlby) Research Lead, Canadian Atlantic Shark Research Laboratory, Bedford Institute of Oceanography, Fisheries and Oceans Canada, Halifax\
 [**Sigurd Einum**](https://www.ntnu.edu/employees/sigurd.einum) Professor, Norwegian University of Science and Technology, Trondheim\
-[**Shahinur Islam**](https://www.researchgate.net/profile/Shahinur-Islam-2) Postdoctoral Fellow, University of California Davis\
+[**Shahinur Islam**](https://sksislam.wixsite.com/shahinurislam) Postdoctoral Fellow, Washington State University\
 [**Darek Moreau**](http://www.goc411.ca/en/285110/Darek-Moreau) Section Head, Salmon, Bedford Institute of Oceanography, Fisheries and Oceans Canada, Halifax\
-[**Kes (Kathryn) Morton**](https://piscesrpm.com/staff/) President & CEO, Pisces Research Project Management, Halifax\
-[**Ingeborg Mulder**](https://www.linkedin.com/in/ingeborg-mulder-b9657860/?originalSubdomain=nl) Chief Ecologist, Rivierenland Water Board, Netherlands\
+[**Kes (Kathryn) Morton**](https://www.linkedin.com/in/kesmorton/) Director of Modular Ocean Research Infrastructure, Marine Environmental Observation, Prediction and Response Network (MEOPAR), Halifax\
+[**Ingeborg Mulder**](https://www.linkedin.com/in/ingeborg-mulder-b9657860/?originalSubdomain=nl) Lecturer Marine Sciences, Wageningen University & Research, Netherlands\
 [**Åslaug Viken**](https://www.linkedin.com/in/aslaug-viken/?originalSubdomain=no) Senior Adviser, Norwegian Biodiversity Information Centre, Trondheim\
-[**Peter Westley**](https://uaf.edu/cfos/people/faculty/detail/peter-westley.php) Associate Professor, Lowell A. Wakefield Chair in Fisheries and Ocean Sciences, University of Alaska Fairbanks\
+[**Peter Westley**](https://uaf.edu/cfos/people/faculty/detail/peter-westley.php) Professor, Lowell A. Wakefield Chair in Fisheries and Ocean Sciences, University of Alaska Fairbanks\
 [**Brendan Wringe**](https://www.researchgate.net/profile/Brendan-Wringe) Research Scientist, Bedford Institute of Oceanography, Fisheries and Oceans Canada, Halifax\
 
 ### MSc Students
 
-[**Mark Young**]() Ecosystem Management Ecologist, Wildlife Branch, NL Department of Forestry, Agriculture and Lands\
-[**Coral San Roman**]() Fisheries Biologist, Fisheries and Oceans Canada, Port Hardy [**Michelle Bachan**](https://www.linkedin.com/in/michelle-m-bachan-448190153/?originalSubdomain=ca) Biology Instructional Assistant, Memorial University of Newfoundland, St. John’s\
+**Mark Young** Ecosystem Management Ecologist, Wildlife Branch, NL Department of Forestry, Agriculture and Lands\
+[**Coral San Roman**]() Fisheries Biologist, Fisheries and Oceans Canada, Port Hardy\
+**Michelle Bachan** Bachelor of Education program, Memorial University of Newfoundland, St. John’s\
 **Jaclyn Bennett**\
 [**Lance Campbell**](https://www.researchgate.net/profile/Lance-Campbell) Fish Biologist, Washington Department of Fish & Wildlife, Olympia, WA\
-[**Michelle Caputo**](https://marineconservationecologylab.com/dr-michelle-caputo) Postdoctoral Fellow, Florida Internal University & Rhodes University, South Africa\
+[**Michelle Caputo**](https://www.une.edu/people/michelle-caputo) Assistant Professor, School of Marine and Environmental Programs, University of New England\
 [**Sigurd Einum**](https://www.ntnu.edu/employees/sigurd.einum) Professor, Norwegian University of Science and Technology, Trondheim\
-[**Samantha Crowley**](https://bradburygeneticslab.com/people/current-students/) PhD student, Dalhousie University, Halifax\
+[**Samantha Crowley**](https://bradburygeneticslab.com/people/samantha-crowley/) PhD student, Dalhousie University, Halifax\
 [**Sindy Dove**](https://www.linkedin.com/in/sindy-dove-192803149/?originalSubdomain=ca) Oyster Hatchery Manager, Verschuren Centre for Sustainability, Sydney, NS\
 **Sean Gillard**\
-[**Ian Hamilton**](https://www.linkedin.com/in/ianhamilton84/?originalSubdomain=ca) Fisheries Biology & Department Head, Lower Fraser Fisheries Alliance, Abbotsford, BC\
-**Lisa Krentz**\
-**Christopher Lewis** Fisheries Management Biologist, Fisheries and Oceans Canada, Iqaluit\
+[**Ian Hamilton**](https://www.linkedin.com/in/ianhamilton84/?originalSubdomain=ca) Biology Department and Technical Operations Manager, Lower Fraser Fisheries Alliance, Abbotsford, BC\
+**Lisa Krentz** Generation Manager, Eugene Water and Electric Board, Oregon\
+[**Christopher Lewis**](https://www.researchgate.net/profile/Chris_Lewis21) Fisheries Management Biologist, Fisheries and Oceans Canada, Iqaluit\
 **Marion Mann** Faculty, Oregon Coast Community College, Newport, OR\
 [**Gwyn Mason**](https://www.linkedin.com/in/gwynemason/?originalSubdomain=ca) Halibut Coordinator, Groundfish Management, Fisheries and Oceans Canada, Vancouver\
 **Megan Petrie**\
-[**Michelle Simms**](https://www.linkedin.com/in/michelllesimms/?originalSubdomain=ca) Wildlife Technician, Salmonier Nature Park, Newfoundland\
+[**Michelle Simms**](https://www.linkedin.com/in/michelllesimms/?originalSubdomain=ca) Wildlife Consultant, Newfoundland\
 [**John Winkowski**](https://www.oldenfish.com/winkowski) PhD student, University of Washington, Seattle\
 [**Emily Zimmermann**](https://www.linkedin.com/in/emily-zimmermann-ab602765/) Marine Biologist, Maine Department of Environmental Protection, Augusta, ME\
 
 ### Honours Students
 
-**Isaiah Power Smith** R&D Trials Technician, Otter Ferry Seafish Ltd, UK\
-**Tristan Hennig**\
-[**Krista Oke**](https://kristaoke.weebly.com/) Postdoctoral Fellow, University of Alaska Fairbanks\
-**Emily Palmer**\
-**Isaiah Power Smith**
+[**Abigail Hammond**](https://www.linkedin.com/in/abby-hammond-10393238b/)\
+[**Chloe Baker**](https://www.linkedin.com/in/chloe-baker-a6a65b1b9/)\
+[**Isaiah Power Smith**](https://www.linkedin.com/in/isaiah-power-smith-252b312b3/) R&D Trials Technician, Otter Ferry Seafish Ltd, UK\
+[**Tristan Hennig**](https://www.linkedin.com/in/tristan-hennig-8865692a0/) Environmental Biologist, Connexa Group\
+[**Krista Oke**](https://kristaoke.weebly.com/) Postdoctoral Fellow, Fisheries, Aquatic Science, and Technology Laboratory, Alaska Pacific University, and Alaska Fisheries Science Center, National Oceanic and Atmospheric Administration (NOAA)\
+**Emily Palmer**
