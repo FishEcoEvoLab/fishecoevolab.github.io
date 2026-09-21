@@ -389,7 +389,7 @@ Fleming, I.A. and Gross, M.R. 1993. Breeding success of hatchery and wild coho s
 
 Jonsson, B., and Fleming, I.A. 1993. Enhancement of wild salmon populations, pp. 209-242. *In* G. Sundnes (ed.) *Human Impact on Self-recruiting Populations.* An International Symposium of the Royal Norwegian Society of Sciences and Letters, Kongsvoll, Norway, 7-11 June 1993. Tapir Press, Trondheim, Norway. (ISBN 82-519-1455-8)
 
-Fleming, I.A. and Gross, M.R. 1992. Reproductive behaviour of hatchery and wild coho salmon (*Oncorhynchus kisutch*): does it differ? *Aquaculture* 103: 101-121. (<https://doi.org/10.1016/0044-8486(92)90405-A>)![](images/clipboard-1017679069.png){width="148"}
+Fleming, I.A. and Gross, M.R. 1992. Reproductive behaviour of hatchery and wild coho salmon (*Oncorhynchus kisutch*): does it differ? *Aquaculture* 103: 101-121. (<https://doi.org/10.1016/0044-8486(92)90405-A>)![](images/clipboard-1017679069.png){.column-margin width="148"}
 
 Fleming, I.A. and Gross, M.R. 1990. Latitudinal clines: a tradeoff between egg number and size in Pacific salmon. *Ecology* 71: 1-11. (<https://doi.org/10.2307/1940241>)
 
