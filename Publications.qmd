@@ -11,7 +11,7 @@ Find all of our publications on: ![](img/Publications.fld/image001.png){.column-
 
 **2026**
 
-Arno, H.E., Kess, T., Marquis, B., Smith, N., Du*ss*.ffy, S., Beck, S., Lehnert, S.J., Fleming, I.A. and Bradbury, I.R. Compounding impacts – Genomic exploration of the potential effect of domestic introgression on climate adaptation in Atlantic salmon (*Salmo salar*). *Evolutionary Applications*, *in press.*![](images/clipboard-3815248002.png){.column-margin width="195"}
+Arno, H.E., Kess, T., Marquis, B., Smith, N., Du*ss*.ffy, S., Beck, S., Lehnert, S.J., Fleming, I.A. and Bradbury, I.R. Compounding impacts – Genomic exploration of the potential effect of domestic introgression on climate adaptation in Atlantic salmon (*Salmo salar*). *Evolutionary Applications*, *in press.*![](images/clipboard-3815248002.png){.column-margin width="205"}
 
 Arno, H.E., Blackmore, R.J., Crowley, S.E., Evon, S.M.R., Fleming, I.A., Fountain, C.T., Hamisch, S., Monk, E.M., Robitaille, A. and Schneider, D.C. P-values are not evidence: Navigating the gap across modes of inference. *Ecology and Evolution*, *in press.*
 
@@ -37,7 +37,7 @@ Sajid, Z., Gamperl, A.K., Parrish, C.C., Colombo, S., Santander, J., Mather, C.,
 
 **2023**
 
-San Román, I.C., Bradbury, I.R., Crowley, S.E., Duffy, S.J., Islam, S.S. and Fleming, I.A. 2023Experimental comparison of changes in relative survival and fitness-related traits of wild, farm and hybrid Atlantic salmon (*Salmo salar*) in nature. *Aquaculture Environment Interactions* 15:323-337. (<https://doi.org/10.3354/aei004>68![](images/clipboard-3757960649.png){.column-margin width="180"})
+San Román, I.C., Bradbury, I.R., Crowley, S.E., Duffy, S.J., Islam, S.S. and Fleming, I.A. 2023Experimental comparison of changes in relative survival and fitness-related traits of wild, farm and hybrid Atlantic salmon (*Salmo salar*) in nature. *Aquaculture Environment Interactions* 15:323-337. (<https://doi.org/10.3354/aei004>68![](images/clipboard-3757960649.png){.column-margin width="207"})
 
 Crowley, S.E., Bradbury, I.R., Messmer, A.M., Duffy, S.J., Parrish, C.C., Islam, S.S., and Fleming, I.A. 2023. Differences in energy acquisition and storage of farm, wild, and hybrid Atlantic salmon competing in the wild. *Canadian Journal of Fisheries and Aquatic Sciences* 80: 43-56. (<https://doi.org/10.1139/cjfas-2021-0326>).
 
@@ -89,13 +89,13 @@ Mulder, I., Dempson, J.B., Fleming, I.A. and Power, M. 2019 Diel activity patter
 
 Sylvester, E.V.A., Wringe, B.F., Duffy, S.J., Hamilton, L.C., Fleming, I.A., Castellani, M., Bentzen, P. and Bradbury, I.R. 2019. Estimating the relative fitness of escaped farmed salmon offspring in the wild and modeling the consequences of invasion for wild populations. *Evolutionary Applications* 12: 705-717. (<https://doi.org/10.1111/eva.12746>)
 
-Robertson, G., Reid, D., Einum, S., Aronsen, T., Fleming, I.A., Sundt-Hansen, L., Karlsson, S., Kvingedal, E. and Hindar, K. 2019. Can variation in standard metabolic rate explain context-dependent performance of farmed salmon offspring? *Ecology and Evolution* 9: 212-222. (<https://doi.org/10.1002/ece3.4716>)![](images/clipboard-3337617385.png){.column-margin width="156"}
+Robertson, G., Reid, D., Einum, S., Aronsen, T., Fleming, I.A., Sundt-Hansen, L., Karlsson, S., Kvingedal, E. and Hindar, K. 2019. Can variation in standard metabolic rate explain context-dependent performance of farmed salmon offspring? *Ecology and Evolution* 9: 212-222. (<https://doi.org/10.1002/ece3.4716>)![](images/clipboard-3337617385.png){.column-margin width="167"}
 
 **2018**
 
 Sylvester, E.V.A., Wringe, B.F., Duffy, S.J., Hamilton, L.C., Fleming, I.A. and Bradbury, I.R. 2018. Migration effort and wild population size influence the prevalence of hybridization between escaped farmed and wild Atlantic salmon. *Aquaculture Environment Interactions* 10: 401-411*.* (<https://doi.org/10.3354/aei00277>)
 
-Aas, Ø., Cucherousset, J., Fleming, I.A., Wolter, C., Höjesjö, J., Buoro, M., Santoul, F., Johnsson, J.I., Hindar, K. and Arlinghaus, R. 2018. Salmonid stocking in five North Atlantic jurisdictions: identifying drivers and barriers to policy change. *Aquatic Conservation: Marine and Freshwater Ecosystems* 28: 1451-1464. (<https://doi.org/10.1002/aqc.2984>) ![](images/clipboard-2671219070.png){.column-margin width="199"}
+Aas, Ø., Cucherousset, J., Fleming, I.A., Wolter, C., Höjesjö, J., Buoro, M., Santoul, F., Johnsson, J.I., Hindar, K. and Arlinghaus, R. 2018. Salmonid stocking in five North Atlantic jurisdictions: identifying drivers and barriers to policy change. *Aquatic Conservation: Marine and Freshwater Ecosystems* 28: 1451-1464. (<https://doi.org/10.1002/aqc.2984>) ![](images/clipboard-2237656766.png){.column-margin width="189"}
 
 Wringe, B.F., Jeffery, N.W., Stanley, R.R.E., Hamilton, L.C., Anderson, E.A., Fleming, I.A., Grant, C., Dempson, B., Veinott, G., Duffy, S.J. and Bradbury, I.R. 2018. Extensive hybridization following a large escape of domesticated Atlantic salmon in the Northwest Atlantic. *Communications Biology – Nature* 1:108. (<https://doi.org/10.1038/s42003-018-0112-9>)
 
@@ -203,7 +203,7 @@ Fleming, I.A. and Huntingford, F.A. 2012. Reproductive Behaviour, pp 286-321. *I
 
 Moreau, D.T.R., Conway, C. and Fleming, I.A. 2011. Reproductive performance of alternative male phenotypes of growth hormone transgenic Atlantic salmon (*Salmo salar*). *Evolutionary Applications* 4: 736-748. (<https://doi.org/10.1111/j.1752-4571.2011.00196.x>)
 
-Reddin, D.G., Dowton, P., Fleming, I.A., Hansen, L.P. and Mahon, A. 2011. Behavioural ecology at sea of Atlantic salmon (*Salmo salar*) kelts from a Newfoundland (Canada) river. *Fisheries Oceanography* 20: 174-191*.* (<https://doi.org/10.1111/j.1365-2419.2011.00576>) ![](images/clipboard-3213252057.jpeg){.column-margin width="183"}
+Reddin, D.G., Dowton, P., Fleming, I.A., Hansen, L.P. and Mahon, A. 2011. Behavioural ecology at sea of Atlantic salmon (*Salmo salar*) kelts from a Newfoundland (Canada) river. *Fisheries Oceanography* 20: 174-191*.* (<https://doi.org/10.1111/j.1365-2419.2011.00576>) ![](images/clipboard-3213252057.jpeg){.column-margin width="163"}
 
 Westley, P.A.H. and Fleming, I.A. 2011. Landscape factors that shape a slow and persistent aquatic invasion: brown trout in Newfoundland 1883-2010. *Diversity and Distributions* 17: 566-579*.* (<https://doi.org/10.1111/j.1472-4642.2011.00751.x>)
 
@@ -261,7 +261,7 @@ Devlin, R.H., Sundstrom, L.F., Johnsson, J.I., Fleming, I.A., Hayes, K.R., Ojwan
 
 Ferguson, A., Fleming, I.A., Hindar, K., Skaala, Ø., McGinnity, P., Cross, T. and Prodöhl, P. 2007 Farm escapes, pp. 357-398. *In*: E. Verspoor, L. Stradmeyer and J. Nielsen (eds.) *The Atlantic salmon: Genetics, Conservation and Management.* Blackwell, Oxford*.* (ISBN-13:978-1-4051-1582-7) [PDF](https://www.researchgate.net/publication/228041659_Farm_Escapes)
 
-Garcia de Leaniz, C., Fleming, I.A., Einum, S., Verspoor, E., Jordan, W.C., Consuegra, S., Aubin-Horth, N., Lajus, D., Villanueva, B., Ferguson, A., Youngson, A.F. and Quinn, T.P. 2007. Local adaptation, pp. 195-235. *In*: E. Verspoor, L. Stradmeyer and J. Nielsen (eds.) *The Atlantic salmon: Genetics, Conservation and Management.* Blackwell, Oxford*.* (ISBN-13:978-1-4051-1582-7) [PDF](https://www.researchgate.net/publication/236177931_Local_Adaptation) ![](img/Publications.fld/image047.jpg){.column-margin width="175"}
+Garcia de Leaniz, C., Fleming, I.A., Einum, S., Verspoor, E., Jordan, W.C., Consuegra, S., Aubin-Horth, N., Lajus, D., Villanueva, B., Ferguson, A., Youngson, A.F. and Quinn, T.P. 2007. Local adaptation, pp. 195-235. *In*: E. Verspoor, L. Stradmeyer and J. Nielsen (eds.) *The Atlantic salmon: Genetics, Conservation and Management.* Blackwell, Oxford*.* (ISBN-13:978-1-4051-1582-7) [PDF](https://www.researchgate.net/publication/236177931_Local_Adaptation) ![](img/Publications.fld/image047.jpg){.column-margin width="152"}
 
 Jordan, W.C., Fleming, I.A. and Garant, D. 2007. Mating system and social structure, pp 167-194. *In*: E. Verspoor, L. Stradmeyer and J. Nielsen (eds.) *The Atlantic salmon: Genetics, Conservation and Management.* Blackwell, Oxford*.* (ISBN-13:978-1-4051-1582-7)
 
@@ -287,9 +287,9 @@ Naylor, R. Hindar, K., Fleming, I.A., Goldburg, R., Mangel, M., Williams, S., Vo
 
 **2004**
 
-Weir, L.K., Hutchings, J.A., Fleming, I.A. and Einum, S. 2004. Dominance relationships and behavioural correlates of individual spawning success in farmed and wild male Atlantic salmon, *Salmo salar*. *Journal of Animal Ecology* 73:1069-1079. (<https://doi.org/10.1111/j.0021-8790.2004.00876.x>)
+Weir, L.K., Hutchings, J.A., Fleming, I.A. and Einum, S. 2004. Dominance relationships and behavioural correlates of individual spawning success in farmed and wild male Atlantic salmon, *Salmo salar*. *Journal of Animal Ecology* 73:1069-1079. (<https://doi.org/10.1111/j.0021-8790.2004.00876.x>)![](images/clipboard-2188578983.png){.column-margin width="145"}
 
-Einum, S. and Fleming, I.A. 2004. Environmental unpredictability and offspring size: conservative vs. diversified bet-hedging. *Evolutionary Ecology Research* 6:443-455. [PDF](https://www.researchgate.net/publication/234081877_Environmental_unpredictability_and_offspring_size_Conservative_versus_diversified_bet-hedging)![](images/clipboard-2188578983.png){.column-margin width="135"}
+Einum, S. and Fleming, I.A. 2004. Environmental unpredictability and offspring size: conservative vs. diversified bet-hedging. *Evolutionary Ecology Research* 6:443-455. [PDF](https://www.researchgate.net/publication/234081877_Environmental_unpredictability_and_offspring_size_Conservative_versus_diversified_bet-hedging)
 
 Einum, S. and Fleming, I.A. 2004. Does within-population variation in egg size reduce intraspecific competition in Atlantic salmon, *Salmo salar*? *Functional Ecology* 18:110-115. (<https://doi.org/10.1111/j.1365-2435.2004.00824.x>)
 
@@ -387,9 +387,9 @@ Fleming, I.A., Jonsson, B. and Gross, M.R. 1994. Phenotypic divergence of sea-ra
 
 Fleming, I.A. and Gross, M.R. 1993. Breeding success of hatchery and wild coho salmon (*Oncorhynchus kisutch*) in competition. *Ecological Applications* 3: 230-245. (<https://doi.org/10.2307/1941826>)
 
-Jonsson, B., and Fleming, I.A. 1993. Enhancement of wild salmon populations, pp. 209-242. *In* G. Sundnes (ed.) *Human Impact on Self-recruiting Populations.* An International Symposium of the Royal Norwegian Society of Sciences and Letters, Kongsvoll, Norway, 7-11 June 1993. Tapir Press, Trondheim, Norway. (ISBN 82-519-1455-8)
+Jonsson, B., and Fleming, I.A. 1993. Enhancement of wild salmon populations, pp. 209-242. *In* G. Sundnes (ed.) *Human Impact on Self-recruiting Populations.* An International Symposium of the Royal Norwegian Society of Sciences and Letters, Kongsvoll, Norway, 7-11 June 1993. Tapir Press, Trondheim, Norway. (ISBN 82-519-1455-8)![](images/clipboard-1017679069.png){.column-margin width="146"}
 
-Fleming, I.A. and Gross, M.R. 1992. Reproductive behaviour of hatchery and wild coho salmon (*Oncorhynchus kisutch*): does it differ? *Aquaculture* 103: 101-121. (<https://doi.org/10.1016/0044-8486(92)90405-A>)![](images/clipboard-1017679069.png){.column-margin width="148"}
+Fleming, I.A. and Gross, M.R. 1992. Reproductive behaviour of hatchery and wild coho salmon (*Oncorhynchus kisutch*): does it differ? *Aquaculture* 103: 101-121. (<https://doi.org/10.1016/0044-8486(92)90405-A>)
 
 Fleming, I.A. and Gross, M.R. 1990. Latitudinal clines: a tradeoff between egg number and size in Pacific salmon. *Ecology* 71: 1-11. (<https://doi.org/10.2307/1940241>)
 
