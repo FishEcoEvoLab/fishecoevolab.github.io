@@ -95,7 +95,7 @@
     "href": "Gallery.html",
     "title": "Gallery",
     "section": "",
-    "text": "Page under construction, please check back later"
+    "text": "img_files &lt;- fs::dir_ls(\"docs/gallery/galleries/FlemingLab/images/\", glob=\"*.jpg\")\ncat(\"::: {layout-ncol=2}\\n\",\n    glue::glue(\"![]({img_files})\\n\\n\\n\"),\n    \":::\",\n    sep = \"\"\n)"
   },
   {
     "objectID": "Gallery.html#salmonid-ecology-and-evolution",
