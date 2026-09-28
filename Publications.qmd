@@ -15,13 +15,13 @@ Arno, H.E., Kess, T., Marquis, B., Smith, N., Du*ss*.ffy, S., Beck, S., Lehnert,
 
 Arno, H.E., Blackmore, R.J., Crowley, S.E., Evon, S.M.R., Fleming, I.A., Fountain, C.T., Hamisch, S., Monk, E.M., Robitaille, A. and Schneider, D.C. P-values are not evidence: Navigating the gap across modes of inference. *Ecology and Evolution*, *in press.*
 
-MacPhail, C.S.T., Fleming, I.A., Kess, T., Smith, N. and Bradbury, I.R. Introgression and outbreeding depression following anthropogenically-induced secondary contact between anadromous and resident Atlantic Salmon (*Salmo* *salar*). *Evolutionary Applications*, *in press*.![](images/clipboard-2545329992.png){.column-margin width="300"}
+MacPhail, C.S.T., Fleming, I.A., Kess, T., Smith, N. and Bradbury, I.R. Introgression and outbreeding depression following anthropogenically-induced secondary contact between anadromous and resident Atlantic Salmon (*Salmo* *salar*). *Evolutionary Applications* 19: e70318. (<http://doi.org/10.1111/eva.70318>) ![](images/clipboard-2545329992.png){.column-margin width="300"}
 
-Chalde, T., Quinn, T., Fleming, I.A., Gomez-Uchida, D. 2026. Editorial: factors influencing diadromous fish migration and their fitness consequences. Frontiers in Marine Science 13: 1917299 (<https://doi.org/10.3389/fmars.2026.1917299>)
+Chalde, T., Quinn, T., Fleming, I.A., Gomez-Uchida, D. 2026. Editorial: factors influencing diadromous fish migration and their fitness consequences. Frontiers in Marine Science 13: 1917299. (<https://doi.org/10.3389/fmars.2026.1917299>)
 
 Young, M.R., Van Leeuwen, T.E., Duffy, S., Purcellm, S.L., Keefe, D., Dempson, J.B., Marshall, K., Pretty, C., Hinks, R., Fudge, R., Warr, L., Layden, M., Whyte, S., Fast, M.D., Fleming, I.A. and Murray, H. 2026. Effect of sea lice on the survival of wild Atlantic salmon (Salmo salar) smolt in areas with and without open net-pen salmonid aquaculture in Newfoundland, Canada. *Aquaculture Environment Interactions*18: aei00527*.* (<https://doi.org/10.3354/aei00527>)
 
-Young, M.R., Van Leeuwen, T.E., Marshall, K., Duffy, S., Grandy, M., Bisson, J., Bungay, T., Cross, S., Walsh, A., Keefe, D., Hinks, R., Whyte, S., Dempson, J.B., Fast, M.D., Fleming, I.A. and Murray, H. 2026. Health of wild Atlantic salmon (*Salmo salar*) smolts along coastal migratory routes in Newfoundland with and without aquaculture as assessed using sentinel cages. *Aquaculture, Fish and Fisheries* 6:e70209 (https://doi.org/10.1002/aff2.70209)
+Young, M.R., Van Leeuwen, T.E., Marshall, K., Duffy, S., Grandy, M., Bisson, J., Bungay, T., Cross, S., Walsh, A., Keefe, D., Hinks, R., Whyte, S., Dempson, J.B., Fast, M.D., Fleming, I.A. and Murray, H. 2026. Health of wild Atlantic salmon (*Salmo salar*) smolts along coastal migratory routes in Newfoundland with and without aquaculture as assessed using sentinel cages. *Aquaculture, Fish and Fisheries* 6:e70209 (<https://doi.org/10.1002/aff2.70209>)
 
 **2025**
 
@@ -37,7 +37,7 @@ Sajid, Z., Gamperl, A.K., Parrish, C.C., Colombo, S., Santander, J., Mather, C.,
 
 **2023**
 
-San Román, I.C., Bradbury, I.R., Crowley, S.E., Duffy, S.J., Islam, S.S. and Fleming, I.A. 2023Experimental comparison of changes in relative survival and fitness-related traits of wild, farm and hybrid Atlantic salmon (*Salmo salar*) in nature. *Aquaculture Environment Interactions* 15:323-337. (<https://doi.org/10.3354/aei004>68![](images/clipboard-3757960649.png){.column-margin width="207"})
+San Román, I.C., Bradbury, I.R., Crowley, S.E., Duffy, S.J., Islam, S.S. and Fleming, I.A. 2023Experimental comparison of changes in relative survival and fitness-related traits of wild, farm and hybrid Atlantic salmon (*Salmo salar*) in nature. *Aquaculture Environment Interactions* 15:323-337. (<https://doi.org/10.3354/aei00468>![](images/clipboard-3757960649.png){.column-margin width="207"})
 
 Crowley, S.E., Bradbury, I.R., Messmer, A.M., Duffy, S.J., Parrish, C.C., Islam, S.S., and Fleming, I.A. 2023. Differences in energy acquisition and storage of farm, wild, and hybrid Atlantic salmon competing in the wild. *Canadian Journal of Fisheries and Aquatic Sciences* 80: 43-56. (<https://doi.org/10.1139/cjfas-2021-0326>).
 
