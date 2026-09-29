@@ -11,11 +11,11 @@ Find all of our publications on: ![](img/Publications.fld/image001.png){.column-
 
 **2026**
 
-Arno, H.E., Kess, T., Marquis, B., Smith, N., Du*ss*.ffy, S., Beck, S., Lehnert, S.J., Fleming, I.A. and Bradbury, I.R. Compounding impacts – Genomic exploration of the potential effect of domestic introgression on climate adaptation in Atlantic salmon (*Salmo salar*). *Evolutionary Applications*, *in press.*![](images/clipboard-3815248002.png){.column-margin width="205"}
+Arno, H.E., Kess, T., Marquis, B., Smith, N., Du*ss*.ffy, S., Beck, S., Lehnert, S.J., Fleming, I.A. and Bradbury, I.R. 2026. Compounding impacts – Genomic exploration of the potential effect of domestic introgression on climate adaptation in Atlantic salmon (*Salmo salar*). *Evolutionary Applications* 19: e70319*. (*<http://doi.org/10.1111/eva.70319>) ![](images/clipboard-3815248002.png){.column-margin width="205"}
 
-Arno, H.E., Blackmore, R.J., Crowley, S.E., Evon, S.M.R., Fleming, I.A., Fountain, C.T., Hamisch, S., Monk, E.M., Robitaille, A. and Schneider, D.C. P-values are not evidence: Navigating the gap across modes of inference. *Ecology and Evolution*, *in press.*
+Arno, H.E., Blackmore, R.J., Crowley, S.E., Evon, S.M.R., Fleming, I.A., Fountain, C.T., Hamisch, S., Monk, E.M., Robitaille, A. and Schneider, D.C. P-values are not evidence: Navigating the gap across modes of inference. *Ecology and Evolution, in press.*
 
-MacPhail, C.S.T., Fleming, I.A., Kess, T., Smith, N. and Bradbury, I.R. Introgression and outbreeding depression following anthropogenically-induced secondary contact between anadromous and resident Atlantic Salmon (*Salmo* *salar*). *Evolutionary Applications* 19: e70318. (<http://doi.org/10.1111/eva.70318>) ![](images/clipboard-2545329992.png){.column-margin width="300"}
+MacPhail, C.S.T., Kess, T., Fleming, I.A., Smith, N. and Bradbury, I.R. Introgression and outbreeding depression following anthropogenically-induced secondary contact between anadromous and resident Atlantic Salmon (*Salmo* *salar*). *Evolutionary Applications* 19: e70318. (<http://doi.org/10.1111/eva.70318>) ![](images/clipboard-2545329992.png){.column-margin width="300"}
 
 Chalde, T., Quinn, T., Fleming, I.A., Gomez-Uchida, D. 2026. Editorial: factors influencing diadromous fish migration and their fitness consequences. Frontiers in Marine Science 13: 1917299. (<https://doi.org/10.3389/fmars.2026.1917299>)
 
