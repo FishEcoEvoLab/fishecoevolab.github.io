@@ -19,5 +19,3 @@ format:
     toc: false
 
 editor: visual
-
-pre-render: generate-gallery.ts
