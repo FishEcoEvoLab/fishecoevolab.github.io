@@ -95,7 +95,7 @@
     "href": "Gallery.html",
     "title": "Gallery",
     "section": "",
-    "text": "img_files &lt;- fs::dir_ls(\"docs/gallery/galleries/FlemingLab/images/\", glob=\"*.jpg\")\ncat(\"::: {layout-ncol=2}\\n\",\n    glue::glue(\"![]({img_files})\\n\\n\\n\"),\n    \":::\",\n    sep = \"\"\n)"
+    "text": "01 Brendan 2010\n\n\n\n\n\n\n\n02 Brendan 2009\n\n\n\n\n\n\n\n03 Gwyn 2014\n\n\n\n\n\n\n\n\n\n04 Gwyn 2014\n\n\n\n\n\n\n\n05 Kristin 2015\n\n\n\n\n\n\n\n06 Kristin 2015\n\n\n\n\n\n\n\n\n\n07 Mudler, Ingeborg 2015\n\n\n\n\n\n\n\n08 Kristin 2015\n\n\n\n\n\n\n\n09 Salmon\n\n\n\n\n\n\n\n\n\n10 Sammy 2018\n\n\n\n\n\n\n\n11 Sindy 2019\n\n\n\n\n\n\n\n12 Shahin 2018\n\n\n\n\n\n\n\n\n\n13 Shahin 2018\n\n\n\n\n\n\n\n14 Campbellton Counting Fence\n\n\n\n\n\n\n\n16 Caroline 2025\n\n\n\n\n\n\n\n\n\n17 Brown Trout\n\n\n\n\n\n\n\n18 Brown Trout\n\n\n\n\n\n\n\n19 John Winters 2023\n\n\n\n\n\n\n\n\n\n20 Vicki 2022\n\n\n\n\n\n\n\n22 Cory, Hallie & Steve\n\n\n\n\n\n\n\n23 Terrenceville Brook, Cory, Hallie, Steve & Ian\n\n\n\n\n\n\n\n\n\n24 Cameron 2024\n\n\n\n\n\n\n\n25 Lab Retreat 2024\n\n\n\n\n\n\n\n26 Lab Retreat 2024\n\n\n\n\n\n\n\n\n\n27 Kiley On Ne Placentia 2025\n\n\n\n\n\n\n\n28 Kiley & Sarah, Cochrane Pond Brook 2025\n\n\n\n\n\n\n\n29 Sarah, Kiley & Ian, Cochrane Pond Brook 2025\n\n\n\n\n\n\n\n\n\n30 Abby In Lab 2025\n\n\n\n\n\n\n\n31 Chloe In Lab 2025\n\n\n\n\n\n\n\n32 Abbi\n\n\n\n\n\n\n\n\n\n33 Abbi & Ian"
   },
   {
     "objectID": "Gallery.html#salmonid-ecology-and-evolution",
