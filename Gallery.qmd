@@ -3,24 +3,15 @@ title: "Gallery"
 lightbox: auto
 ---
 
-```{note}
-#| output: asis
-#| echo: false
-img_files <- fs::dir_ls("galleryImages/", glob="*.jpg")
-cat("::: {layout-ncol=2}\n",
-    glue::glue("![]({img_files})\n\n\n"),
-    ":::",
-    sep = ""
-)
-
-```
-
 ```{r}
 #| output: asis
 #| echo: false
+#| 
 img_files <- fs::dir_ls("galleryImages", glob="*.jpg", ignore.case = TRUE)
 
-# 3. Open a Quarto CSS Grid Container
+captionsAll <- read.csv("galleryImageCaptions.csv")
+
+# 3. Open a Quarto CSS Grid Container}
 cat("::: {layout-ncol=3}\n\n")
 
 
@@ -28,9 +19,12 @@ cat("::: {layout-ncol=3}\n\n")
 for (img in img_files) {
   
   # Generate a clean caption from the filename (e.g., "sunset-over-mountains.jpg" -> "Sunset Over Mountains")
-  raw_name <- fs::path_ext_remove(fs::path_file(img))
-  caption  <- stringr::str_to_title(gsub("[-_]", " ", raw_name))
-  
+  raw_name <- fs::path_file(img)
+ 
+  #caption  <- stringr::str_to_title(gsub("[-_]", " ", raw_name))
+  caption <- toString(captionsAll[captionsAll$file == raw_name,][,3])
+   #print(caption)
+
   # Format as a Quarto lightbox image with an automatic caption
   # Syntax: ![Caption](path){.lightbox group="gallery"}
   cat(sprintf('![%s](%s){.lightbox group="lightroom-gallery"}\n\n', caption, img))
@@ -38,13 +32,4 @@ for (img in img_files) {
 
 # 5. Close the layout block
 cat(":::\n")
-```
-
-```{r}
-
-captions <- data.frame("file" = list.files("galleryImages/")) %>% 
-  mutate(caption = substring(file, 3)) %>% 
-  mutate(caption = substring (caption, -4))
-
-
 ```
