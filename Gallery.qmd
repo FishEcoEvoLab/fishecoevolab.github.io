@@ -6,8 +6,10 @@ lightbox: auto
 ```{r}
 #| output: asis
 #| echo: false
-#| 
-img_files <- fs::dir_ls("galleryImages", glob="*.jpg", ignore.case = TRUE)
+
+library(fs)
+
+img_files <- fs::dir_ls("galleryImages", ignore.case = TRUE)
 
 captionsAll <- read.csv("galleryImageCaptions.csv")
 
