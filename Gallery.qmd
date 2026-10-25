@@ -6,6 +6,7 @@ lightbox: auto
 ```{r}
 #| output: asis
 #| echo: false
+#| warning: false
 
 library(fs)
 
